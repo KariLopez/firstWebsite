@@ -1,0 +1,33 @@
+﻿
+.topnav {
+    text-align: center;
+    width: 100%;
+    font:40%;
+    letter-spacing: 1px;
+    font-family: Georgia;
+
+}
+h1{
+    background-image: url('flores.jpg');
+    height:100%;
+    width:100%;
+    color:magenta;
+    text-align:center;
+    font-family: "Palatino;"
+
+}
+h2{
+    color:black;
+    text-align:center;
+}
+h3{
+    color:black;
+    text-align:center;
+    font-weight: bold;
+    font-family: "Georgia";
+} 
+.latinx
+{
+    font-family: "Bookman";
+    color: green;
+}

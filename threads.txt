@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head></head>
+<body>
+	<header>
+		<title>The evolution of a Latinx Hipster</title>
+	</header>
+	<div class="top nav" id="myTopNav">
+		<a href="index.html">Home</a>
+		<a href="music.html">Music Inspo</a>
+		<a href="threads.html">Threads</a>
+		<a href="media.html">Media</a>
+	<h2> 
+	Threads
+	</h2>
+	<h3>
+	Responsible sourcing
+	</h3>
+	<h3>
+		<ul>
+			<li>Huipil shirt </li>
+			<li>Rebozos </li>
+			<li>Statement Shirts</li>
+		</ul> 
+	</h3>
+	
+</body>
+</html>

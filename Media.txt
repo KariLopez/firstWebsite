@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+	<head></head>
+<body>
+	<header>
+		<title>The evolution of a Latinx Hipster</title>
+	</header>
+	<div class="top nav" id="myTopNav">
+		<a href="index.html"<Home</a>
+		<a href="music.html">Music Inspo</a>
+		<a href="threads.html">Threads</a>
+		<a href="media.html">Media</a>
+	<h2> 
+	Media
+	</h2>
+	<h3>
+	What's in my ears and in front of my eyes
+	</h3>
+	<h3>
+		<ul>
+			<li>Radio Menea Podcast</li>
+			<li>Tamarindo Podcast</li>
+			<li>La Verdad Podcast</li>
+			<li>Remezcla</li>
+		</ul> 
+	</h3>
+	
+</body>
+</html>

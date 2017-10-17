@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head><link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<header>
+		<title>The evolution of a Latinx Hipster</title>
+	</header>
+	<div class="top nav" id="myTopNav">
+		<a href="music.html">Music Inspo</a>
+		<a href="threads.html">Threads</a>
+		<a href="media.html">Media</a>
+	<h1 style="text-align:center;"> The evolution of a Latinx Hipster </title>
+	<h2 style="text-align:center;"> 
+	Latinx Hipster  
+	</h2>
+	<h3 style="text-align:center;">
+	/'latnex/ /'hepstr/
+	</h3>
+	<h3 style="text-align:center;">
+	Click to explore my personal blog
+	<img src="cactus.jpg" style="width:1000px;height1000px;border:0:">
+	</h3>
+
+	
+</body>
+</html>
